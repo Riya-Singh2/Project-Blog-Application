@@ -47,9 +47,9 @@ Running a Django project is simple once everything is set up. Here's a step-by-s
 
 ---
 
-## ✅ How to Run a Django Project
 
-### 📁 If you're **creating a new Django project**:
+
+### If you're **creating a new Django project**:
 
 1. **Install Django (if not already installed):**
    ```bash
